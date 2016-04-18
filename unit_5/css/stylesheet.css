@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic);
+
+* {
+	padding: 0;
+	margin: 0;
+	font-size: 18px;
+}
+
+body {
+	margin: 1em;
+}
+
+header {
+	padding: 20px;
+	border: 1px black solid;
+	background-color: #ffed74;
+}
+
+.coffeeType {
+	width: 25%;
+	padding: 20px;
+	border: 1px black solid;
+	background-color: #ffe2b8;
+}
+
+img {
+	width: 95%;
+	align-self: center;
+}
+
+nav {
+	margin: 1em 0;
+	padding: 20px;
+	border: 1px black solid;
+	background-color: #e8c66a;
+}
+
+
+nav a {
+	padding: 0 .5em;
+}
+
+hr {
+	margin: 1em 0;
+}
+
+aside {
+	width: 25%;
+	padding: 20px;
+	border: 1px black solid;
+	background-color: #ffc675;
+}
+
+footer {
+	margin-top: 2em;
+	padding: 20px;
+	border: 1px black solid;
+	background-color: #ff957e;
+	text-align: center;
+}
